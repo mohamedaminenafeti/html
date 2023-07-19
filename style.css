@@ -1,0 +1,10 @@
+
+.navbar {
+    display: inline;
+  }
+  /* For example, apply Roboto font to the body and header elements */
+body, header {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+ 

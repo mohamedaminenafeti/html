@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title> 
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <h1 class ="title">welcome to my first website</h1>
+<img class="image" src="../image/cat.jpg" alt="cat">
+    
+    <p class = "paragraph">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo repudiandae dolor omnis fugit incidunt quo, ullam at amet pariatur unde neque nisi reiciendis consequatur eaque porro ut nam, aperiam natus!</p>
+    <ul>
+        <a class="red-text" href="">instagram</a>
+        <a class="red-text" href="">facebook</a>
+        <a class="red-text" href="">whatsup</a>
+        <a class="red-text" href="">snapchat</a>
+    </ul>
+</body>
+</html>
